@@ -15,7 +15,7 @@ class InsertionSorting
         {
             t=arr[i];
             j=i;
-            while(j>0 && arr[j-1]>t)
+            while(j>0 && arr[j-1]>t)// arr[j-1]<t for arranging the values in descending order
             {
                 arr[j]=arr[j-1];
                 j--;
