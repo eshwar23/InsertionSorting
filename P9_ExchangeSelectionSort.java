@@ -1,6 +1,7 @@
 /*
   Write a program to input ten values in an array , arrange the values in ascending order using 
   Exchange Selection Sorting
+  // swap the position of value present at outer loop (i) with the lowest value of the unsorted part of the array
  */
 import java.util.*;
 class P9_ExchangeSelectionSort
