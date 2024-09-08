@@ -4,7 +4,7 @@
   // swap the position of value present at outer loop (i) with the lowest value of the unsorted part of the array
  */
 import java.util.*;
-class P9_ExchangeSelectionSort
+class ExchangeSelectionSort
 {
     public static void main()
     {
